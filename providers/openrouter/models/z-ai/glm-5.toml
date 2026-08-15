@@ -11,5 +11,4 @@ output = 1.92
 cache_read = 0.12
 
 [limit]
-context = 202_752
 output = 128_000
